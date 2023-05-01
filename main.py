@@ -1,4 +1,5 @@
 # Test python esv
+
 def print_hello():
 
     animals = ['dog','cat','hamster']
@@ -7,7 +8,8 @@ def print_hello():
 
         'Spagetti',
 
-        'Pizza'
+        'Pizza',
+	'bibimbob'
 
     ] 
 
@@ -18,6 +20,7 @@ def print_hello():
         'Jane',
 
         'Gil-dong',
+        'Dong-eun',
 
     ]
 
